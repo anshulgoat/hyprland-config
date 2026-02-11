@@ -1,0 +1,30 @@
+
+# Ignore EVERYTHING by default
+*
+
+# Allow git metadata
+!.gitignore
+
+# ---- WHITELISTED CONFIGS ----
+!hypr/
+!hyprpanel/
+!kitty/
+!waypaper/
+!uwsm/
+!htop/
+!cmus/
+!rofi/
+!cava/
+!ranger/
+
+# ---- ALLOW CONTENT INSIDE ----
+!hypr/**
+!hyprpanel/**
+!kitty/**
+!waypaper/**
+!uwsm/**
+!htop/**
+!cmus/**
+!rofi/**
+!cava/**
+!ranger/**
