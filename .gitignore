@@ -16,7 +16,7 @@
 !rofi/
 !cava/
 !ranger/
-
+!README.md
 # ---- ALLOW CONTENT INSIDE ----
 !hypr/**
 !hyprpanel/**
